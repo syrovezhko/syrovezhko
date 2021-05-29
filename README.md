@@ -9,6 +9,23 @@
 	<li>I'm a 3D design (CAD) and computer science teacher since 2017;</li>
 	<li>since 2020 start to learn web-development by myself.</li>
 </ul>
+<h2>Check out my projects</h2>
+
+
+
+<ul><h4>My first project:<a href="https://github.com/syrovezhko/bootstrap_4_test/blob/master/README.md#bootstrap_4_test"> computer science clubs website</a></h4>
+	It allowed me:
+	<li>to post hometasks</li>
+	<li>to post lessons records</li>
+	<li>to provide datasheets</li>
+	<li>to provide student's books</li>
+	<li>to share my repl</li>
+	<li>to get completed hometasks via Google forms</li>
+</ul>
+
+<ul><h4>My second project: <a href="https://github.com/syrovezhko/my-first-blog">django study project</a></h4>
+	<li>It's just begun</li>
+
 
 <h2>You may reach me:</h2>
 
