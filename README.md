@@ -1,4 +1,7 @@
 <h1>Welcome to my github page👋</h1>
+
+<h2><a href="https://github.com/syrovezhko/notes">notes</a></h2>
+<p>it's just for my sake of convenience</p>
 <h2>Let me introduce myself</h2>
 <ul>
 	<li>my name is Nikolai;</li>
