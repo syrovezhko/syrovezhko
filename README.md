@@ -23,7 +23,7 @@
 	<li>to get completed hometasks via Google forms</li>
 </ul>
 
-<ul><h4>My second project: <a href="https://github.com/syrovezhko/my-first-blog">django study project</a></h4>
+<ul><h4>My second project: <a href="https://github.com/syrovezhko/django_training_website">django study project</a></h4>
 	<li>It's just begun</li>
 
 
