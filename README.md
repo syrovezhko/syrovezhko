@@ -27,7 +27,10 @@
 </ul>
 
 <ul><h4>My second project: <a href="https://github.com/syrovezhko/django_training_website">django study project</a></h4>
-	<li>It's just begun</li>
+	<h35><i>It's just begun. Don't judge me too harshly</i></h5>
+	<li>decomposed template</li>
+	<li>made simple CMS (slider)</li>
+	
 
 
 <h2>You may reach me:</h2>
