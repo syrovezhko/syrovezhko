@@ -29,7 +29,10 @@
 <ul><h4>My second project: <a href="https://github.com/syrovezhko/django_training_website">django study project</a></h4>
 	<h35><i>It's just begun. Don't judge me too harshly</i></h5>
 	<li>decomposed template</li>
-	<li>made simple CMS (slider)</li>
+	<li>added simple CMS (slider)</li>
+	<li>added CRM for orders, order's comments and status control</li>
+	<li>added telegram's notification bot and controller app for it</li>
+	<li>added price control opportunity</li>
 	
 
 
