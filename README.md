@@ -33,6 +33,7 @@
 	<li>added CRM for orders, order's comments and status control</li>
 	<li>added telegram's notification bot and controller app for it</li>
 	<li>added price control opportunity</li>
+	<li>customize admin panel</li>
 	
 
 
