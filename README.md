@@ -1,4 +1,16 @@
 <h1>Welcome to my github page👋</h1>
+<div class="header" align="center">
+	<img src="./giphy.gif" alt="test" width="230"></img>
+	<div id="badges">
+    <a href="https://www.linkedin.com/in/nikolai-syrovezhko">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://telegram.me/NIKOLASHA_NUMBER_ONE">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=syrovezhko&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 <h2><a href="https://github.com/syrovezhko/notes">notes</a></h2>
 <p>it's just for my sake of convenience</p>
@@ -27,24 +39,10 @@
 </ul>
 
 <ul><h4>My second project: <a href="https://github.com/syrovezhko/django_training_website">django study project</a></h4>
-	<h35><i>It's just begun. Don't judge me too harshly</i></h5>
+	<h5><i>It's just begun. Don't judge me too harshly</i></h5>
 	<li>decomposed template</li>
 	<li>added simple CMS (slider)</li>
 	<li>added CRM for orders, order's comments and status control</li>
 	<li>added telegram's notification bot and controller app for it</li>
 	<li>added price control opportunity</li>
 	<li>customize admin panel</li>
-	
-
-
-<h2>You may reach me:</h2>
-
-<a href="https://telegram.me/NIKOLASHA_NUMBER_ONE">
-	<img align="left" height="40px" src="https://img.icons8.com/ios-filled/100/000000/telegram-app.png" alt="">
-</a>
-<a href="mailto:syrovezhko@list.ru?subject=MailFromGit_don't delete it please">
-	<img align="left" height="40px" src="https://img.icons8.com/material/52/000000/new-post--v1.png" alt="">
-</a>  
-<a href="https://www.linkedin.com/in/nikolai-syrovezhko">
-	<img align="left" height="40px" src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" alt="">
-</a>
