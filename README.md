@@ -144,8 +144,8 @@ Jul 2014 - Aug 2014
 * First vue.js study [project](https://github.com/syrovezhko/tab-tracker)
 
 ### DevOps Experience
-* **Intern**
-***Fish Run Games***
+* **Intern**  
+***Fish Run Games***  
 Sep 2021 - Nov 2021
 
 ---
