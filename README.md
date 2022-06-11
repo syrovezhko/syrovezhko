@@ -181,13 +181,9 @@ Sep 2021 - Dec 2021
 
 ##  A proof of English skills
 
-<p align="center"><b>Self introduction</b></p>
+<p align="center"><b>Self introduction video</b><br>(click to watch👇)</p>
 
 [![Watch the video](https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg)](https://youtu.be/f7AcK2fRkig)
-
-<a href="https://youtu.be/f7AcK2fRkig" target="_blank">
- <img src="https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
 
 ### Stats :
 
