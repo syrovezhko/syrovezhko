@@ -62,7 +62,7 @@ Thank you for your attention
 - ***[mem-slider](https://syrovezhko.github.io/cssMemSlider/cssMemSlider/index.html)*** (HTML/CSS only)
 - ***[study group's website](https://syrovezhko.github.io/bootstrap_4_test/)*** (HTML/Sass/Gulp/Bootstrap)
 - ***[study group's website 2.0](https://github.com/syrovezhko/platform)*** (Python 3/Django 3/Bootstrap)
-- ***[virtual keyboard](https://syrovezhko.github.io/cssMemSlider/cssMemSlider/index.html)*** (vanilla JS via webpack)
+- ***[virtual keyboard](https://syrovezhko.github.io/virtual-keyboard/dist/)*** (vanilla JS via webpack)
 - ***[tab tracker](https://github.com/syrovezhko/tab-tracker)*** (Vue/Express/SQLite/Bootstrap)
 
 **Mentor:**
