@@ -114,6 +114,10 @@ Thank you for your attention
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" alt="filezilla" width="40" height="40"/>&nbsp;
 </div>
 
+**Methods**
+
+BEM, ES6, DRY, KISS, YAGNI
+
 ---
 
 ## Experience:
