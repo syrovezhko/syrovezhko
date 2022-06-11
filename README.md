@@ -185,9 +185,9 @@ Sep 2021 - Dec 2021
 
 [![Watch the video](https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg)](https://youtu.be/f7AcK2fRkig)
 
-<div align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/f7AcK2fRkig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<a href="https://youtu.be/f7AcK2fRkig" target="_blank">
+ <img src="https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 ### Stats :
 
