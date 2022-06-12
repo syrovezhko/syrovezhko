@@ -1,7 +1,7 @@
 # Syrovezhko Nikolai 👋
 
 <div class="header" align="center">
-	<img src="./giphy.gif" alt="test" width="229">
+	<img src="./syrovezhko.gif" alt="test" width="229">
 	<div id="badges">
     <a href="https://www.linkedin.com/in/nikolai-syrovezhko">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
