@@ -38,7 +38,7 @@ After 3 years of industry work, I've changed my career. I became a teacher. My p
 
 Sounds crazy, doesn't it? Why should schools hire an engineer as a teacher? The answer is simple: most of Moscow schools need an engineer with "crazy ideas" and the capability to teach. It's my job to come up with an engineering project and implement it with a team of students.
 
-Working at school gave me the opportunity to try many IT directions. I've learned the basics of Python and C++, how to work with Arduino and program microcontrollers using the SPI interface. I've tried myself as DevOps, FrontEND and BackEND developers. I've made my  [IoT](https://grabcad.com/library/convector-patriot-pt-c-15-x-v41-1) , [hardware & software](https://github.com/syrovezhko/developer-keyboard/tree/software-ru) projects. So, school gave me the opportunity to choose what I really would like to do. Yeh, it’s front-end. 
+Working at school gave me the opportunity to try many IT directions. I've learned the basics of Python and C++, how to work with Arduino and program microcontrollers using the SPI interface. I've tried myself as DevOps, FrontEND and BackEND developers. I've made my  [IoT](https://grabcad.com/library/convector-patriot-pt-c-15-x-v41-1) , [hardware & software](https://github.com/syrovezhko/developer-keyboard) projects. So, school gave me the opportunity to choose what I really would like to do. Yeh, it’s front-end. 
 
 I've started by making a website for my study groups. It was a simple multiple page [website](https://syrovezhko.github.io/bootstrap_4_test ) on Bootstrap with manual data updating. In development, I’ve used SASS with Gulp.
 
@@ -51,7 +51,7 @@ At the time, I’ve find out The Rolling Scopes School. I think it has become th
 
 So, that's my story.
 
-Thank you for your attention
+Thank you for your attention!
 
 </details>
 
@@ -105,7 +105,7 @@ Thank you for your attention
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
 </div>
 
-**tools**
+**Tools**
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
@@ -121,6 +121,23 @@ BEM, ES6, DRY, KISS, YAGNI
 ---
 
 ## Experience:
+
+### DevOps Experience
+* **Intern**  
+***[Fish Run Games](https://www.linkedin.com/in/vladislav-khorev-63a84450)***  
+Sep 2021 - Nov 2021
+
+### Junior Dev Experience
+* Django base educational [platform](https://github.com/syrovezhko/platform) for my computer science clubs
+* Bootstrap base educational [website](https://github.com/syrovezhko/bootstrap_4_test) for my computer science clubs
+* First vue.js study [project](https://github.com/syrovezhko/tab-tracker)
+
+<details>
+<summary>
+
+### Non IT Experience
+
+</summary>
 
 * **Computer Science and Mechanical Engineering Teacher**  
 ***School №1288, Moscow***  
@@ -142,15 +159,7 @@ Dec 2014 - Nov 2015
 ***JSC “Saturn”***  
 Jul 2014 - Aug 2014
 
-### Junior Dev Experience
-* Django base educational [platform](https://github.com/syrovezhko/platform)
-* First [website](https://github.com/syrovezhko/bootstrap_4_test) for my computer science clubs
-* First vue.js study [project](https://github.com/syrovezhko/tab-tracker)
-
-### DevOps Experience
-* **Intern**  
-***[Fish Run Games](https://www.linkedin.com/in/vladislav-khorev-63a84450)***  
-Sep 2021 - Nov 2021
+</details>
 
 ---
 
@@ -160,13 +169,13 @@ Sep 2021 - Nov 2021
 ***Engineer's degree (Helicopter and Aircraft engineering)***  
 Sep 2012 - Jan 2018
 
-* **Bauman Moscow State Technical University**  
+* **National University of Science and Technology MISiS**  
 ***further training (AI: theory and methodology of teaching in basic school)***  
 Sep 2021 - Dec 2021
 
 ---
 
-## Languages
+## Knowledge of languages
 
 * Russian - native
 * English - B2
@@ -183,13 +192,13 @@ Sep 2021 - Dec 2021
 
 ---
 
-##  A proof of English skills
+## A proof of English skills
 
 <p align="center"><b>Self introduction video</b><br>(click to watch👇)</p>
 
 [![Watch the video](https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg)](https://youtu.be/f7AcK2fRkig)
 
-### Stats :
+### Stats:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syrovezhko&theme=dark&background=000000)](https://git.io/streak-stats)
