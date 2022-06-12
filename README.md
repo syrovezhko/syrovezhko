@@ -44,8 +44,13 @@ I've started by making a website for my study groups. It was a simple multiple p
 
 For the current academic year (2021-2022), I have made a website using Django 3. It was meant like a private business. But it’s failed to launch in marketing. By the way, you can checkout the [project](https://github.com/syrovezhko/platform)
 
-On the recommendation of my friend (he is a senior developer in the Luxoft Russia), I’ve started to learn Vue.js. So, I made my first web app project, FullStack app project. I’ve used Vue.js, Express.js, SqLite DB. You may [check out it](https://syrovezhko.github.io/tab-tracker/client/dist), as well.
+On the recommendation of my friend [Vladislav khorev](https://www.linkedin.com/in/vladislav-khorev-63a84450) (he is a senior developer in the Luxoft Russia), I’ve started to learn Vue.js. So, I made my first web app project, FullStack app project. I’ve used Vue.js, Express.js, SqLite DB. You may [check out it](https://syrovezhko.github.io/tab-tracker/client/dist), as well.
 
+Previously, I've helped him with GitLab backup. It was my DevOps internship. The goal was to raise the ubuntu server and restore GitLab backup. The backup has been created at legacy 8.15.2 release.In order to restore, I'de should used GitLab not older than 9th release. That was a problem. There were not younger than 13.12 release on the official web site. But I got a way out - the docker container. I've unpacked the container with appropriate GitLab release, restore the backup and started to update the system step by step. The machine was in basic configuration. I've spent a few days for update. Finally, I've created new backup in the latest GitLab release and pushed it to the Amazon cloud.
+
+During this work we realised the Gitea is better for private repositories storage only. So the next task became the new ubuntu server raise, installing and setting up the Gitea, and from GitLab to Gitea repositories migrations also. It was much easier: official docs installation tutorial + python [script](https://github.com/h44z/gitlab_to_gitea).
+
+So to conclude I've created the Gitea backup, pushed it to the Amazon cloud also and melt both of systems. [Vladislav](https://www.linkedin.com/in/vladislav-khorev-63a84450) removed all machines and gave me the access to the new one, where I've installed Gitea and restored backup normally.
 
 At the time, I’ve find out The Rolling Scopes School. I think it has become the best part of my self-studying. It made my knowledge better, stronger day to day I believe, I’m ready for new challenges and projects.
 
