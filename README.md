@@ -67,7 +67,7 @@ Thank you for your attention
 
 **Mentor:**
 
-- ***["true developer's" keyboard](https://github.com/syrovezhko/developer-keyboard/tree/software-ru)***
+- ***["true developer's" keyboard](https://github.com/syrovezhko/developer-keyboard)***
 - ***[smart heater DIY](https://grabcad.com/library/convector-patriot-pt-c-15-x-v41-1)***
 
 ---
