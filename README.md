@@ -32,6 +32,8 @@
 </summary>
 My name is Nikolai. I am a junior front-end developer.
 
+![Relative date](https://img.shields.io/date/761166000?label=I%20was%20born&style=plastic)
+
 In 2018, I graduated from the Moscow Aviation Institute as an aircraft and helicopter engineer. I have been worked in industry since I was a student. 
 
 After 3 years of industry work, I've changed my career. I became a teacher. My professor invited me to take the first steps in this direction.
