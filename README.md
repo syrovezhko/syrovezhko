@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=syrovezhko&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<p align="center">English | <a href="./READMEru.md">Russian</a></p>
+<p align="center">English | <a href="./READMEru.md">Русский</a></p>
 
 ## About myself:
 

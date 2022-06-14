@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=syrovezhko&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<p align="center"><a href="https://github.com/syrovezhko">English</a> | Russian</p>
+<p align="center"><a href="https://github.com/syrovezhko">English</a> | Русский</p>
 
 
 ---
