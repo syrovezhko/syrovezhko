@@ -13,7 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=syrovezhko&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<p align="center">English | <a href="./READMEru.md">Русский</a></p>
+<p align="center">English | <a href="./READMEru.md">Русский</a><br/>
+<a href="https://github.com/syrovezhko/learn-react">React-learning blog</a></p>
 
 ## About myself:
 
