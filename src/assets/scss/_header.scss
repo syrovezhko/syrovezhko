@@ -191,7 +191,7 @@
   }
 
   &--switch {
-    max-width: 14rem;
+    max-width: 5rem;
     margin: 0;
     @extend %flex-space-between;
 
@@ -206,12 +206,12 @@
 
   &--nav {
     order: 0;
-    max-width: 50rem;
+    max-width: 57rem;
     width: 100%;
 
     &--list {
       display: flex;
-      max-width: 50rem;
+      max-width: 57rem;
       width: 100%;
     }
 

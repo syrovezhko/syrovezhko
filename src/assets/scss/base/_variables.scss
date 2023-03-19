@@ -5,6 +5,12 @@ $color-night: #000000;
 
 // placeholders
 
+%flex-column-centre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 %flex-column-centre-wrap {
   display: flex;
   flex-direction: column;

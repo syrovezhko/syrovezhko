@@ -22,7 +22,7 @@ html, body {
 }
 
 .App {
-  @extend %flex-column-centre-wrap;
+  @extend %flex-column-centre;
   width: 100vw;
   background-color: $color-night;
   height: 100vh;
