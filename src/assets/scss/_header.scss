@@ -11,7 +11,7 @@
   }
 
   &--switch {
-    max-width: 7rem;
+    max-width: 8rem;
     width: 100%;
     @extend %flex-space-between;
 
@@ -29,6 +29,10 @@
 
       &>img {
         width: 3rem;
+      }
+      &>a{
+        display: flex;
+        height: 3rem;
       }
     }
     &-lang {}
@@ -112,6 +116,10 @@
         &>img {
           width: 4rem;
         }
+        &>a{
+          display: flex;
+          height: 4rem;
+        }
       }
       &-lang {}
     }
@@ -150,6 +158,10 @@
       &>img {
         width: 5rem;
       }
+      &>a{
+        display: flex;
+        height: 5rem;
+      }
     }
   }
 
@@ -181,7 +193,7 @@
   }
 
   &--switch {
-    max-width: 10rem;
+    max-width: 14rem;
     margin: 0;
     @extend %flex-space-between;
 
@@ -196,12 +208,12 @@
 
   &--nav {
     order: 0;
-    max-width: 55rem;
+    max-width: 50rem;
     width: 100%;
 
     &--list {
       display: flex;
-      max-width: 55rem;
+      max-width: 50rem;
       width: 100%;
     }
 
@@ -231,11 +243,15 @@
       font-size: $h1;
     }
 
+    &--switch{
+      min-width: 20rem;
+    }
+
     &--nav {
-      max-width: 75rem;
+      max-width: 65rem;
 
       &--list {
-        min-width: 75rem;
+        min-width: 65rem;
       }
 
       &--item {
