@@ -2,7 +2,7 @@
   @extend %flex-column-centre-wrap;
   height: 4rem;
   width: 100%;
-  background-color: darken($color-night, 15%);
+  background-color: lighten($color-night, 5%);
 
   &--title {
     font-size: $h1-xs;

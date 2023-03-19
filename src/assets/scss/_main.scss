@@ -1,0 +1,61 @@
+.main {
+  @extend %flex-column-centre-wrap;
+  width: 100%;
+  padding-top: $padding-top;
+  color: $color-day;
+  
+  &>div {
+    justify-content: center;
+  }
+
+  &--pro {
+    @extend %flex-column-centre-wrap;
+
+    &--title {
+      font-size: $h2-xs;
+    }
+
+    &--img {
+      display: flex;
+      width: 20rem;
+    }
+
+    &--age {
+      padding-top: $padding-top * 0.5;
+      font-size: $h3-xs;
+    }
+
+  }
+
+  &--contacts {
+    @extend %flex-column-centre-wrap;
+    align-items: flex-start;
+    padding-top: $padding-top;
+    width: 100%;
+    display: flex;
+
+    &--item {
+      margin-top: $padding-top;
+      display: flex;
+      height: 3rem;
+      max-width: 25rem;
+      width: 100%;
+      align-items: flex-end;
+    }
+
+    &--link {
+      @extend %flex-row-start-wrap;
+      font-size: $h2-xs;
+      color: $color-day;
+      text-decoration: none;
+      width: 100%;
+      cursor: pointer;
+    }
+    
+    &--img {
+      // width: rem;
+      margin-right: $padding-top * 0.5;
+      width: 2.5rem;
+    }
+  }
+}
