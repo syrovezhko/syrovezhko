@@ -1,0 +1,36 @@
+.container {
+  @extend %flex-space-between;
+  max-width: $xs;
+  width: 100%;
+
+}
+
+@media screen and (min-width: $sm) {
+  .container {
+    max-width: $sm;
+  }
+}
+
+@media screen and (min-width: $md) {
+  .container {
+    max-width: $md;
+  }
+}
+
+@media screen and (min-width: $lg) {
+  .container {
+    max-width: $lg;
+  }
+}
+
+@media screen and (min-width: $xl) {
+  .container {
+    max-width: $xl;
+  }
+}
+
+@media screen and (min-width: $xxl) {
+  .container {
+    max-width: $xxl;
+  }
+}
