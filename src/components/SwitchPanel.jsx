@@ -8,7 +8,7 @@ const SwitchPanel = ({term, lang}) => {
   return (
     <ul className='header--switch'>
       <li className="header--switch-term">
-        {lang
+        {!lang
           ? <img src={rus} alt="rus" />
           : <img src={eng} alt="rus" />
         }

@@ -3,7 +3,11 @@ import React from 'react';
 const Nav = () => {
   return (
     <nav className='header--nav'>
-      <div className="header--nav--burger"></div>
+      <ul className="header--nav--burger">
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
       <ul className='header--nav--list'>
         <li className="header--nav--item">
           <a href="#">опыт</a>

@@ -1,7 +1,66 @@
+// colors
+
+$color-day: #1d1e22;
+$color-night: #adadad;
+
+// placeholders
+
+%flex-column-centre-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+%flex-space-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+%hover {
+  transition-duration: .3s;
+  box-shadow: .6rem .3rem .3rem lighten($color-night, 1%);
+  padding: .5rem;
+  background-color: darken($color-night, 10%);
+}
+
+%active {
+  background-color: darken($color-night, 5%);
+}
+
 // Headings
 
-$h1: 3.6rem;
-$h2: 3.1rem;
-$h3: 2.6rem;
-$h4: 2.4rem;
+$h1: 4rem;
+$h2: 3.7rem;
+$h3: 3.2rem;
+$h4: 2.8rem;
 $h5: 2rem;
+
+$h1-xs: $h1*0.58;
+$h2-xs: $h2*0.58;
+$h3-xs: $h3*0.58;
+$h4-xs: $h4*0.58;
+$h5-xs: $h5*0.58;
+
+$h1-sm: $h1*0.8;
+$h2-sm: $h2*0.8;
+$h3-sm: $h3*0.8;
+$h4-sm: $h4*0.8;
+$h5-sm: $h5*0.8;
+
+$h1-md: $h1*0.9;
+$h2-md: $h2*0.9;
+$h3-md: $h3*0.9;
+$h4-md: $h4*0.9;
+$h5-md: $h5*0.9;
+
+// containers
+
+$xs: 345px !default;
+$sm: 540px !default;
+$md: 720px !default;
+$lg: 960px !default;
+$xl: 1140px !default;
+$xxl: 1320px !default;
