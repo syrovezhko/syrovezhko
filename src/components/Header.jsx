@@ -1,19 +1,19 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Nav from './Nav.jsx';
 import SwitchPanel from './SwitchPanel.jsx';
 
-const Header = () => {
-  const [lang, setLang] = useState(true);
-  const [term, setTerm] = useState(true);
+const Header = ({term, lang}) => {
   
   return (
     <header className='header'>
-      <h1 className='header--title'>Front-end Developer</h1>
-      <Nav />
-      <SwitchPanel
-        lang={lang}
-        term={term}
-      />
+      <div className="container">
+        <h1 className='header--title'>Front-end Developer</h1>
+        <Nav />
+        <SwitchPanel
+          lang={lang}
+          term={term}
+        />
+      </div>
     </header>
   );
 };
