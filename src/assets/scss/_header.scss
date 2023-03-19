@@ -11,9 +11,10 @@
   }
 
   &--switch {
-    max-width: 8rem;
+    max-width: 5rem;
     width: 100%;
     @extend %flex-space-between;
+    justify-content: flex-end;
 
     &>li {
       display: flex;
@@ -90,7 +91,8 @@
         display: flex;
         width: 100%;
         border-radius: 0.2rem;
-        border: 0.2rem solid darken($color-night, 40%);
+        // color: $color-day;
+        border: 0.2rem solid $color-day;
       }
     }
   }
@@ -175,10 +177,6 @@
         color: $color-day;
       }
     }
-
-    &--burger {
-      display: none;
-    }
   }
 }
 }
@@ -224,6 +222,10 @@
         text-decoration: none;
         color: $color-day;
       }
+    }
+
+    &--burger {
+      display: none;
     }
   }
 }
