@@ -47,7 +47,7 @@ const Contacts = ({
       <li className={classNameItem}>
         <a href="mailto:syrovezhko@list" className={classNameLink}>
           <img src={mail} alt="icon" className={classNameImg} />
-          E-Mail
+          syrovezhko@list.ru
           </a>
       </li>
     </ul>
