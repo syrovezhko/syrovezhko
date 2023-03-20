@@ -4,6 +4,7 @@
   width: 100%;
   background-color: $color-night;
   background-color: transparent;
+  border-bottom: 2px solid $color-day;
 }
 
 @media screen and (min-width: $md) {

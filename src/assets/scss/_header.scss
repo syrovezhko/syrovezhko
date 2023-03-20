@@ -55,7 +55,7 @@
       font-size: $h2;
       display: flex;
       padding-bottom: 0.3rem;
-      border-bottom: 0.3rem solid darken($color-night, 40%);
+      border-bottom: 0.3rem solid darken($color-day, 40%);
       cursor: pointer;
 
       &:hover {
