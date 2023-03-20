@@ -25,6 +25,9 @@
       font-size: $h3-xs;
     }
 
+    &--person {
+      @extend %flex-column-centre;
+    }
   }
 
   &--contacts {
