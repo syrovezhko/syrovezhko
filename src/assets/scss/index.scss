@@ -7,6 +7,10 @@
 @import 'header';
 @import 'main';
 
+// sections
+@import 'pro';
+@import 'education';
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -25,5 +29,5 @@ html, body {
   @extend %flex-column-centre;
   width: 100vw;
   background-color: $color-night;
-  height: 100vh;
+  height: 100%;
 }

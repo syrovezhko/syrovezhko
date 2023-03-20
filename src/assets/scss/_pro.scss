@@ -1,0 +1,138 @@
+.main {
+  &--pro {
+    flex-grow: 1;
+    @extend %flex-column-centre-wrap;
+    &--title {
+      font-size: $h2-xs;
+    }
+
+    &--img {
+      display: flex;
+      max-width: 20rem;
+      width: 100%;
+    }
+
+    &--age {
+      padding-top: $padding-top * 0.5;
+      font-size: $h3-xs;
+    }
+
+    &--person {
+      @extend %flex-column-centre;
+      margin-bottom: $padding-top;
+  
+    }
+  }
+
+  &--contacts {
+    @extend %flex-column-centre-wrap;
+    align-items: flex-start;
+    padding-bottom: $padding-top;
+    width: 100%;
+    display: flex;
+    padding-left: $padding-top;
+
+    &--item {
+      margin-bottom: $padding-top*0.5;
+      display: flex;
+      height: 3rem;
+      max-width: 25rem;
+      width: 100%;
+      align-items: flex-end;
+    }
+
+    &--link {
+      @extend %flex-row-start-wrap;
+      font-size: $h2-xs;
+      color: $color-day;
+      text-decoration: none;
+      width: 100%;
+      cursor: pointer;
+    }
+    
+    &--img {
+      margin-right: $padding-top * 0.5;
+      width: 2.5rem;
+    }
+  }
+}
+
+@media screen and (min-width: $md) {
+  .main {
+    &--pro {
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: flex-start;
+
+      &--title {
+        flex-grow: 1;
+        width: 100%;
+        text-align: end;
+        font-size: $h2-md;
+        margin-bottom: $padding-top;
+      }
+      &--person {
+        width: 100%;
+        max-width: 25rem;
+
+      }
+    }
+    &--contacts {
+      max-width: 30rem;
+      &--item {
+        margin-bottom: $padding-top*1.2;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $lg) {
+  .main {
+    &--pro {
+      align-items: flex-end;
+      &--img {
+        max-width: 30rem;
+      }
+      &--title {
+        font-size: $h2-md;
+      }
+      &--age {
+        padding-top: $padding-top * 0.1;
+        font-size: $h3-md;
+      }
+      &--person {
+        max-width: 30rem;
+      }
+    }
+    &--contacts {
+      &--item {
+        margin-bottom: $padding-top*0;
+        margin-top: $padding-top*2;
+      }
+    }
+  }
+}
+
+
+
+@media screen and (min-width: $xl) {
+  .main {
+    &--pro {
+      align-items: flex-end;
+      &--img {
+        max-width: 35rem;
+      }
+      &--title {
+        font-size: $h2;
+      }
+      &--age {
+        padding-top: $padding-top * 0.1;
+        font-size: $h3;
+      }
+      &--person {
+        max-width: 35rem;
+      }
+    }
+  }
+}
+

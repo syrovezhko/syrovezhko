@@ -1,0 +1,27 @@
+.main {
+  &--education {
+    @extend %flex-column-centre-wrap;
+    width: 100%;
+  }
+  &--study {
+    width: 100%;
+    @extend %flex-column-centre;
+    margin-top: $padding-top;
+    &--college {
+      display: flex;
+      font-size: $h3-xs;
+    }
+    &--major {
+      margin-top: $padding-top*0.5;
+      display: flex;
+      font-size: $h4-xs;
+      font-style: italic;
+    }
+    &--period{
+      margin-top: $padding-top*0.5;
+      display: flex;
+      font-size: $h4-xs;
+      font-weight: bold;
+    }
+  }
+}
