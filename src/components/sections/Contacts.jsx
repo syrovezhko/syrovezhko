@@ -35,7 +35,7 @@ const Contacts = ({
       <li className={classNameItem}>
         <a href="https://wa.me/79852895574" className={classNameLink}>
           <img src={linkedin} alt="icon" className={classNameImg} />
-          LinkedIn
+          Nikolai Syrovezhko
           </a>
       </li>
       <li className={classNameItem}>
