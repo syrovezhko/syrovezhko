@@ -7,6 +7,9 @@ import Person from './Person.jsx';
 const Pro = () => {
   return (
     <section className='main--pro'>
+        <h2 className="main--pro--title">
+          Сыровежко Николай Алексеевич
+        </h2>
         <Person />
         <Contacts
           classNameList="main--contacts"
