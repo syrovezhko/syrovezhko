@@ -1,5 +1,5 @@
 import React from 'react';
-import Line from './Line.jsx';
+// import Line from './Line.jsx';
 
 const Study = ({example}) => {
   return (
@@ -13,7 +13,7 @@ const Study = ({example}) => {
       <h4 className="main--study--period">
         {example.period}
       </h4>
-      <Line style={'line--dotted'} />
+      {/* <Line style={'line--dotted'} /> */}
     </div>
   );
 };

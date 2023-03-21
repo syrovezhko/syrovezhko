@@ -2,6 +2,10 @@
   &--education {
     @extend .container;
     @extend .main--contacts;
+
+    &>section:last-child {
+      display: none;
+    }
   }
   &--study {
     width: 100%;

@@ -1,5 +1,6 @@
 import React from 'react';
 import Study from './Study.jsx';
+import Line from './Line.jsx';
 
 const Education = () => {
 
@@ -21,10 +22,13 @@ const Education = () => {
   return (
     <section className='main--education'>
       {study.map((example) => 
+        <>
         <Study
           example={example}
           key={example.id}
         />
+        <Line style={'line--dotted'} />
+        </>
       )}
     </section>
   );
