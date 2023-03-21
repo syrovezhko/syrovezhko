@@ -10,16 +10,16 @@ const Nav = () => {
       </ul>
       <ul className='header__nav_list'>
         <li className="header__nav_item">
-          <a href="#">образование</a>
-        </li>
-        <li className="header__nav_item">
-          <a href="#">опыт</a>
+          <a href="#">обо мне</a>
         </li>
         <li className="header__nav_item">
           <a href="#">навыки</a>
         </li>
         <li className="header__nav_item">
-          <a href="#">обо мне</a>
+          <a href="#">образование</a>
+        </li>
+        <li className="header__nav_item">
+          <a href="#">опыт</a>
         </li>
       </ul>
     </nav>
