@@ -33,7 +33,7 @@ const Experience = () => {
       id: 5,
       title: "Computer Science teacher",
       name: "ГБОУ Школа 1288",
-      period: "Сентябрь 2017 — по сей день"
+      period: "Сентябрь 2017 — по настоящее время"
     },
     {
       id: 6,
@@ -57,7 +57,7 @@ const Experience = () => {
       id: 9,
       title: "React JS developer",
       name: "WeScience",
-      period: "Январь 2022 — по сей день"
+      period: "Январь 2022 — по настоящее время"
     },
   ]
 
