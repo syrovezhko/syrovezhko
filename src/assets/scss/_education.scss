@@ -1,11 +1,13 @@
 .main {
   &--education {
-    @extend %flex-column-centre-wrap;
-    width: 100%;
+    // @extend %flex-column-centre-wrap;
+    @extend .container;
+    @extend .main--contacts;
+    // width: 100%;
   }
   &--study {
     width: 100%;
-    @extend %flex-column-centre;
+    // @extend %flex-column-centre;
     margin-top: $padding-top;
     &--college {
       display: flex;
@@ -24,4 +26,40 @@
       font-weight: bold;
     }
   }
+}
+
+@media screen and (min-width: $md) {
+  .main {
+    &--education {
+      max-width: $md;
+    }
+  }
+  
+}
+
+@media screen and (min-width: $lg) {
+  .main {
+    &--education {
+      max-width: $lg;
+    }
+  }
+  
+}
+
+@media screen and (min-width: $xl) {
+  .main {
+    &--education {
+      max-width: $xl;
+    }
+  }
+  
+}
+
+@media screen and (min-width: $xxl) {
+  .main {
+    &--education {
+      max-width: $xxl;
+    }
+  }
+  
 }

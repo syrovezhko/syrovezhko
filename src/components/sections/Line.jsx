@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Line = () => {
+const Line = ({style}) => {
   return (
-    <section className='main--line' />
+    <section className={style} />
   );
 };
 

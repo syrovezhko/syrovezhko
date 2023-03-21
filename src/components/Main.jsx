@@ -11,7 +11,7 @@ const Main = ({term, lang}) => {
           lang={lang}
           term={term}
         />
-        <Line />
+        <Line style={'line'}/>
         <Education
           lang={lang}
           term={term}
