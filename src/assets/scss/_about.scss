@@ -1,0 +1,11 @@
+.main {
+  &__about {
+    @extend .container;
+    padding: 0 $padding-top;
+
+    &_text {
+      @extend .main__study_college;
+      padding-top: $padding-top;
+    }
+  }
+}

@@ -4,12 +4,18 @@ import Education from './sections/Education.jsx';
 import Line from './sections/Line.jsx';
 import Experience from './sections/Experience.jsx';
 import Skills from './sections/Skills.jsx';
+import About from './sections/About.jsx';
 
 const Main = ({term, lang}) => {
   return (
     <main className='main'>
       <div className="container">
         <Pro
+          lang={lang}
+          term={term}
+        />
+        <Line style={'line'}/>
+        <About
           lang={lang}
           term={term}
         />
