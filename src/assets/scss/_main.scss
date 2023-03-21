@@ -4,4 +4,29 @@
   height: 100%;
   padding-top: $padding-top;
   color: $color-day;
+  margin-top: $padding-top;
+}
+
+@media screen and (min-width: $sm) {
+  .main {
+    margin-top: $padding-top*2;
+  }
+}
+
+@media screen and (min-width: $md) {
+  .main {
+    margin-top: $padding-top*2.3;
+  }
+}
+
+@media screen and (min-width: $lg) {
+  .main {
+    margin-top: $padding-top*2.5;
+  }
+}
+
+@media screen and (min-width: $xl) {
+  .main {
+    margin-top: $padding-top*2.8;
+  }
 }

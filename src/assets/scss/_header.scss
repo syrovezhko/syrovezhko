@@ -3,6 +3,7 @@
   height: 4rem;
   width: 100%;
   background-color: lighten($color-night, 5%);
+  position: fixed;
 
   &--title {
     font-size: $h1-xs;
