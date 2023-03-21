@@ -70,7 +70,7 @@ const Experience = () => {
             example={example}
             key={example.id}
           />
-          <Line style={'line--dotted'} />
+          <Line style={'line__dotted'} />
         </>
       )}
     </section>

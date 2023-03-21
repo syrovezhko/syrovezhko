@@ -1,26 +1,26 @@
 .main {
-  &--education {
+  &__education {
     @extend .container;
-    @extend .main--contacts;
+    @extend .main__contacts;
 
     &>section:last-child {
       display: none;
     }
   }
-  &--study {
+  &__study {
     width: 100%;
     margin-top: $padding-top;
-    &--college {
+    &_college {
       display: flex;
       font-size: $h3-xs;
     }
-    &--major {
+    &_major {
       margin-top: $padding-top*0.5;
       display: flex;
       font-size: $h4-xs;
       font-style: italic;
     }
-    &--period{
+    &_period{
       margin-top: $padding-top*0.5;
       display: flex;
       font-size: $h4-xs;
@@ -31,17 +31,17 @@
 
 @media screen and (min-width: $md) {
   .main {
-    &--education {
+    &__education {
       max-width: $md;
     }
-    &--study {
-      &--college {
+    &__study {
+      &_college {
         font-size: $h3-sm;
       }
-      &--major {
+      &_major {
         font-size: $h4-sm;
       }
-      &--period{
+      &_period{
         font-size: $h4-sm;
       }
     }
@@ -50,17 +50,17 @@
 
 @media screen and (min-width: $lg) {
   .main {
-    &--education {
+    &__education {
       max-width: $lg;
     }
-    &--study {
-      &--college {
+    &__study {
+      &_college {
         font-size: $h3-sm;
       }
-      &--major {
+      &_major {
         font-size: $h4-sm;
       }
-      &--period{
+      &_period{
         font-size: $h4-sm;
       }
     }
@@ -69,7 +69,7 @@
 
 @media screen and (min-width: $xl) {
   .main {
-    &--education {
+    &__education {
       max-width: $xl;
     }
   }
@@ -78,7 +78,7 @@
 
 @media screen and (min-width: $xxl) {
   .main {
-    &--education {
+    &__education {
       max-width: $xxl;
     }
   }

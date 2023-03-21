@@ -5,13 +5,13 @@
   background-color: lighten($color-night, 5%);
   position: fixed;
 
-  &--title {
+  &__title {
     font-size: $h1-xs;
     color: $color-day;
     margin-left: 1rem;
   }
 
-  &--switch {
+  &__switch {
     max-width: 5rem;
     width: 100%;
     @extend %flex-space-between;
@@ -40,19 +40,19 @@
     &-lang {}
   }
 
-  &--nav {
+  &__nav {
     order: 1;
     @extend %flex-space-between;
     max-width: 4rem;
     height: 4rem;
     width: 100%;
 
-    &--list {
+    &_list {
       display: none;
       @extend %flex-space-between;
     }
 
-    &--item {
+    &_item {
       font-size: $h2;
       display: flex;
       padding-bottom: 0.3rem;
@@ -73,7 +73,7 @@
       }
     }
 
-    &--burger {
+    &_burger {
       @extend %flex-column-centre-wrap;
       justify-content: space-around;
       width: 80%;
@@ -106,11 +106,11 @@
   .header {
     height: 5rem;
 
-    &--title {
+    &__title {
       font-size: $h1-sm;
     }
 
-    &--switch {
+    &__switch {
       margin: 0 1rem 0 auto;
       max-width: 16rem;
 
@@ -127,12 +127,12 @@
       &-lang {}
     }
 
-    &--nav {
+    &__nav {
 
-      &--list {
+      &_list {
       }
 
-      &--item {
+      &_item {
         font-size: $h2;
         display: flex;
         &>a {
@@ -141,7 +141,7 @@
         }
       }
 
-      &--burger {}
+      &_burger {}
     }
   }
 }
@@ -149,11 +149,11 @@
 @media screen and (min-width: $md) {.header {
   height: 6rem;
 
-  &--title {
+  &__title {
 
   }
 
-  &--switch {
+  &__switch {
 
     &>li {
       display: flex;
@@ -168,9 +168,9 @@
     }
   }
 
-  &--nav {
+  &__nav {
 
-    &--item {
+    &_item {
       font-size: $h2;
       display: flex;
       &>a {
@@ -186,12 +186,12 @@
   @extend %flex-column-centre-wrap;
   height: 7rem;
 
-  &--title {
+  &__title {
     font-size: $h1-sm;
     margin: 0;
   }
 
-  &--switch {
+  &__switch {
     max-width: 5rem;
     margin: 0;
     @extend %flex-space-between;
@@ -205,18 +205,18 @@
     }
   }
 
-  &--nav {
+  &__nav {
     order: 0;
     max-width: 57rem;
     width: 100%;
 
-    &--list {
+    &_list {
       display: flex;
       max-width: 57rem;
       width: 100%;
     }
 
-    &--item {
+    &_item {
       font-size: $h2-md;
       display: flex;
       &>a {
@@ -225,7 +225,7 @@
       }
     }
 
-    &--burger {
+    &_burger {
       display: none;
     }
   }
@@ -234,7 +234,7 @@
 
 @media screen and (min-width: $xl) {
   .header {
-    &--switch {
+    &__switch {
       max-width: 12rem;
     }
   }
@@ -242,22 +242,22 @@
 
 @media screen and (min-width: $xxl) {
   .header {
-    &--title {
+    &__title {
       font-size: $h1;
     }
 
-    &--switch{
+    &__switch{
       min-width: 20rem;
     }
 
-    &--nav {
+    &__nav {
       max-width: 65rem;
 
-      &--list {
+      &_list {
         min-width: 65rem;
       }
 
-      &--item {
+      &_item {
         font-size: $h2;
         display: flex;
         &>a {

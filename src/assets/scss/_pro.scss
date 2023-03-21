@@ -1,30 +1,30 @@
 .main {
-  &--title {
+  &__title {
     font-size: $h2-xs;
   }
-  &--pro {
+  &__pro {
     flex-grow: 1;
     @extend %flex-column-centre-wrap;
 
-    &--img {
+    &_img {
       display: flex;
       max-width: 20rem;
       width: 100%;
     }
 
-    &--age {
+    &_age {
       padding-top: $padding-top * 0.5;
       font-size: $h3-xs;
     }
 
-    &--person {
+    &_person {
       @extend %flex-column-centre;
       margin-bottom: $padding-top;
   
     }
   }
 
-  &--contacts {
+  &__contacts {
     @extend %flex-column-centre-wrap;
     align-items: flex-start;
     padding-bottom: $padding-top;
@@ -32,7 +32,7 @@
     display: flex;
     padding-left: $padding-top;
 
-    &--item {
+    &_item {
       margin-bottom: $padding-top*0.5;
       display: flex;
       height: 3rem;
@@ -41,7 +41,7 @@
       align-items: flex-end;
     }
 
-    &--link {
+    &_link {
       @extend %flex-row-start-wrap;
       font-size: $h2-xs;
       color: $color-day;
@@ -50,7 +50,7 @@
       cursor: pointer;
     }
     
-    &--img {
+    &_img {
       margin-right: $padding-top * 0.5;
       width: 2.5rem;
     }
@@ -59,14 +59,14 @@
 
 @media screen and (min-width: $md) {
   .main {
-    &--title {
+    &__title {
       flex-grow: 1;
       width: 100%;
       text-align: end;
       font-size: $h2-md;
     }
 
-    &--pro {
+    &__pro {
       flex-direction: row;
       justify-content: space-around;
       align-items: flex-start;
@@ -74,15 +74,15 @@
         margin-bottom: $padding-top;
       }
 
-      &--person {
+      &_person {
         width: 100%;
         max-width: 25rem;
 
       }
     }
-    &--contacts {
+    &__contacts {
       max-width: 30rem;
-      &--item {
+      &_item {
         margin-bottom: $padding-top*1.2;
       }
     }
@@ -91,25 +91,25 @@
 
 @media screen and (min-width: $lg) {
   .main {
-    &--title {
+    &__title {
       font-size: $h2-md;
     }
 
-    &--pro {
+    &__pro {
       align-items: flex-end;
-      &--img {
+      &_img {
         max-width: 30rem;
       }
-      &--age {
+      &_age {
         padding-top: $padding-top * 0.1;
         font-size: $h3-md;
       }
-      &--person {
+      &_person {
         max-width: 30rem;
       }
     }
-    &--contacts {
-      &--item {
+    &__contacts {
+      &_item {
         margin-bottom: $padding-top*0;
         margin-top: $padding-top*2;
       }
@@ -121,20 +121,20 @@
 
 @media screen and (min-width: $xl) {
   .main {
-    &--title {
+    &__title {
       font-size: $h2;
     }
 
-    &--pro {
+    &__pro {
       align-items: flex-end;
-      &--img {
+      &_img {
         max-width: 35rem;
       }
-      &--age {
+      &_age {
         padding-top: $padding-top * 0.1;
         font-size: $h3;
       }
-      &--person {
+      &_person {
         max-width: 35rem;
       }
     }

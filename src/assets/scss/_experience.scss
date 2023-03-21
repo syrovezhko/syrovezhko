@@ -1,20 +1,20 @@
 .main {
-  &--experience {
-    @extend .main--education;
+  &__experience {
+    @extend .main__education;
   }
-  &--job {
-    @extend .main--study;
+  &__job {
+    @extend .main__study;
 
-    &--title {
-      @extend .main--study--college;
+    &_title {
+      @extend .main__study_college;
     }
 
-    &--company-name {
-      @extend .main--study--major;
+    &_company-name {
+      @extend .main__study_major;
     }
 
-    &--period {
-      @extend .main--study--period;
+    &_period {
+      @extend .main__study_period;
     }
   }
 }

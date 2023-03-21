@@ -4,15 +4,15 @@ import Age from './Age.jsx';
 
 const Person = () => {
   return (
-    <div className='main--pro--person'>
+    <div className='main__pro_person'>
       <img
         src={person}
         alt="person"
-        className='main--pro--img' />
+        className='main__pro_img' />
         <Age 
-          className="main--pro--age"
+          className="main__pro_age"
           dateOfBirth="02/13/1994"/>
-        <p className="main--pro--age">
+        <p className="main__pro_age">
           Москва, м. Планерная
         </p>
     </div>

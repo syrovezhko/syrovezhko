@@ -6,16 +6,16 @@ import Person from './Person.jsx';
 
 const Pro = () => {
   return (
-    <section className='main--pro'>
-        <h2 className="main--title">
+    <section className='main__pro'>
+        <h2 className="main__title">
           Сыровежко Николай Алексеевич
         </h2>
         <Person />
         <Contacts
-          classNameList="main--contacts"
-          classNameItem="main--contacts--item"
-          classNameLink="main--contacts--link"
-          classNameImg="main--contacts--img"
+          classNameList="main__contacts"
+          classNameItem="main__contacts_item"
+          classNameLink="main__contacts_link"
+          classNameImg="main__contacts_img"
         />
     </section>
   );

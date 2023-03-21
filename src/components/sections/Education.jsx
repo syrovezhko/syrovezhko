@@ -20,8 +20,8 @@ const Education = () => {
   ]
   
   return (
-    <section className='main--education'>
-      <h2 className="main--title">Образование</h2>
+    <section className='main__education'>
+      <h2 className="main__title">Образование</h2>
 
       {study.reverse().map((example) => 
         <>
@@ -29,7 +29,7 @@ const Education = () => {
           example={example}
           key={example.id}
         />
-        <Line style={'line--dotted'} />
+        <Line style={'line__dotted'} />
         </>
       )}
     </section>
