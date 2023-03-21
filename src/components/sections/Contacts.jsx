@@ -33,13 +33,13 @@ const Contacts = ({
           </a>
       </li>
       <li className={classNameItem}>
-        <a href="https://wa.me/79852895574" className={classNameLink}>
+        <a href="https://www.linkedin.com/in/nikolai-syrovezhko/" className={classNameLink}>
           <img src={linkedin} alt="icon" className={classNameImg} />
           Nikolai Syrovezhko
           </a>
       </li>
       <li className={classNameItem}>
-        <a href="https://wa.me/79852895574" className={classNameLink}>
+        <a href="https://github.com/syrovezhko" className={classNameLink}>
           <img src={github} alt="icon" className={classNameImg} />
           @syrovezhko
           </a>
