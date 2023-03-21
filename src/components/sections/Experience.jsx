@@ -50,8 +50,8 @@ const Experience = () => {
     {
       id: 8,
       title: "FullStack junior",
-      name: "Fish Run Games",
-      period: "Сентябрь 2022 — Февраль 2023"
+      name: "Fish Run Games (проектная)",
+      period: "Январь 2022 — Февраль 2023"
     },
     {
       id: 9,
