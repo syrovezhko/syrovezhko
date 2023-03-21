@@ -1,0 +1,40 @@
+.main {
+  &__skills {
+    @extend .main__education;
+
+    &_container {
+      margin-top: $padding-top;
+      @extend .container;
+      justify-content: start;
+
+    }
+
+    &_img {
+      max-width: 5rem;
+      width: 100%;
+      padding: 1rem 1rem 0 0;
+
+    }
+  }
+}
+
+@media screen and (min-width: $sm) {
+  .main {
+    &__skills {
+      &_img {
+        max-width: 7rem;
+        padding-top: 2rem;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $md) {
+  .main {
+    &__skills {
+      &_img {
+        max-width: 8rem;
+      }
+    }
+  }
+}

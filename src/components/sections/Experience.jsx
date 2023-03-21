@@ -62,8 +62,8 @@ const Experience = () => {
   ]
 
   return (
-    <section className='main--experience'>
-      <h2 className="main--title">Опыт</h2>
+    <section className='main__experience'>
+      <h2 className="main__title">Опыт</h2>
       {jobs.reverse().map((example) => 
         <>
           <Job
