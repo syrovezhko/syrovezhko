@@ -64,13 +64,15 @@
       width: 100%;
       text-align: end;
       font-size: $h2-md;
-      margin-bottom: $padding-top;
     }
 
     &--pro {
       flex-direction: row;
       justify-content: space-around;
       align-items: flex-start;
+      &>h2:first-child {
+        margin-bottom: $padding-top;
+      }
 
       &--person {
         width: 100%;

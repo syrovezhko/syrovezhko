@@ -23,7 +23,7 @@ const Education = () => {
     <section className='main--education'>
       <h2 className="main--title">Образование</h2>
 
-      {study.map((example) => 
+      {study.reverse().map((example) => 
         <>
         <Study
           example={example}

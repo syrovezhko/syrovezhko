@@ -2,6 +2,7 @@ import React from 'react';
 import Pro from './sections/Pro.jsx';
 import Education from './sections/Education.jsx';
 import Line from './sections/Line.jsx';
+import Experience from './sections/Experience.jsx';
 
 const Main = ({term, lang}) => {
   return (
@@ -13,6 +14,11 @@ const Main = ({term, lang}) => {
         />
         <Line style={'line'}/>
         <Education
+          lang={lang}
+          term={term}
+        />
+        <Line style={'line'}/>
+        <Experience
           lang={lang}
           term={term}
         />
