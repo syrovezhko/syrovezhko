@@ -1,10 +1,10 @@
 .main {
+  &--title {
+    font-size: $h2-xs;
+  }
   &--pro {
     flex-grow: 1;
     @extend %flex-column-centre-wrap;
-    &--title {
-      font-size: $h2-xs;
-    }
 
     &--img {
       display: flex;
@@ -59,18 +59,19 @@
 
 @media screen and (min-width: $md) {
   .main {
+    &--title {
+      flex-grow: 1;
+      width: 100%;
+      text-align: end;
+      font-size: $h2-md;
+      margin-bottom: $padding-top;
+    }
+
     &--pro {
       flex-direction: row;
       justify-content: space-around;
       align-items: flex-start;
 
-      &--title {
-        flex-grow: 1;
-        width: 100%;
-        text-align: end;
-        font-size: $h2-md;
-        margin-bottom: $padding-top;
-      }
       &--person {
         width: 100%;
         max-width: 25rem;
@@ -88,13 +89,14 @@
 
 @media screen and (min-width: $lg) {
   .main {
+    &--title {
+      font-size: $h2-md;
+    }
+
     &--pro {
       align-items: flex-end;
       &--img {
         max-width: 30rem;
-      }
-      &--title {
-        font-size: $h2-md;
       }
       &--age {
         padding-top: $padding-top * 0.1;
@@ -117,13 +119,14 @@
 
 @media screen and (min-width: $xl) {
   .main {
+    &--title {
+      font-size: $h2;
+    }
+
     &--pro {
       align-items: flex-end;
       &--img {
         max-width: 35rem;
-      }
-      &--title {
-        font-size: $h2;
       }
       &--age {
         padding-top: $padding-top * 0.1;

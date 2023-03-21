@@ -21,6 +21,7 @@ const Education = () => {
   
   return (
     <section className='main--education'>
+      
       {study.map((example) => 
         <>
         <Study
