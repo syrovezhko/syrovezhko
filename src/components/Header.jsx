@@ -7,7 +7,7 @@ const Header = ({term, lang}) => {
   return (
     <header className='header'>
       <div className="container">
-        <h1 className='header__title'>Front-end Developer</h1>
+        <h1 className='header__title'><a href="#main">Front-end Developer</a></h1>
         <Nav />
         <SwitchPanel
           lang={lang}

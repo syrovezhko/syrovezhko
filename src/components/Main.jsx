@@ -8,7 +8,7 @@ import About from './sections/About.jsx';
 
 const Main = ({term, lang}) => {
   return (
-    <main className='main'>
+    <main className='main' id='main'>
       <div className="container">
         <Pro
           lang={lang}

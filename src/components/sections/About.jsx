@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <section className='main__about'>
+    <section className='main__about' id='about'>
       <h2 className="main__title">обо мне</h2>
       <p className="main__about_text">
         Строил карьеру в аэрокосмической промышленности. Учлися по обмену в Пекине. Проходил стажировку в NASA (Лейпциг, Германия). Работал в ведущих компаниях отросли.

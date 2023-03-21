@@ -41,7 +41,7 @@ const Skills = () => {
   ]
   
   return (
-    <section className='main__skills'>
+    <section className='main__skills' id='skills'>
       <h2 className="main__title">Навыки</h2>
       <div className="main__skills_container">
         {skills.map((example) =>
