@@ -15,9 +15,9 @@ const Contacts = ({
   return (
     <ul className={classNameList}>
       <li className={classNameItem}>
-        <a href="https://t.me/NIKOLASHA_NUMBER_ONE" className={classNameLink}>
+        <a href="https://t.me/Nikolai_Syrovezhko" className={classNameLink}>
           <img src={telegram} alt="icon" className={classNameImg} />
-          @NIKOLASHA_NUMBER_ONE
+          @Nikolai_Syrovezhko
           </a>
       </li>
       <li className={classNameItem}>
@@ -45,7 +45,7 @@ const Contacts = ({
           </a>
       </li>
       <li className={classNameItem}>
-        <a href="mailto:syrovezhko@list" className={classNameLink}>
+        <a href="mailto:syrovezhko@list.ru" className={classNameLink}>
           <img src={mail} alt="icon" className={classNameImg} />
           syrovezhko@list.ru
           </a>
