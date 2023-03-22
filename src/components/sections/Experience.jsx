@@ -38,7 +38,7 @@ const Experience = () => {
     {
       id: 6,
       title: "DevOps intern",
-      name: "Fish Run Games (не оплачиваемая)",
+      name: "Fish Run Games (неоплачиваемая)",
       period: "Сентябрь 2021 — Ноябрь 2021"
     },
     {
