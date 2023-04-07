@@ -46,7 +46,7 @@
 
 ### Опыт в DevOps
 * **Стажёр**  
-***[Fish Run Games](https://www.linkedin.com/in/vladislav-khorev-63a84450)***  
+***[Fish Run Games](https://fishrungames.com/)***  
 Сентябрь 2021 - Ноябрь 2021
 
 ### некоммерческий опыт

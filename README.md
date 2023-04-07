@@ -47,7 +47,7 @@ Dec 2021 - Present
 
 ### DevOps Experience
 * **Intern**  
-***[Fish Run Games](https://www.linkedin.com/in/vladislav-khorev-63a84450)***  
+***[Fish Run Games](https://fishrungames.com/)***  
 Sep 2021 - Nov 2021
 
 ### Non-commercial Experience
