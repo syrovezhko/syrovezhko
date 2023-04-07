@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/nikolai-syrovezhko">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://telegram.me/NIKOLASHA_NUMBER_ONE">
+    <a href="https://t.me/Nikolai_Syrovezhko">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
@@ -18,7 +18,7 @@
 
 ---
 ## You may reach me:
-* Telegram: [@NIKOLASHA_NUMBER_ONE](https://t.me/NIKOLASHA_NUMBER_ONE)
+* Telegram: [@Nikolai_Syrovezhko](https://t.me/Nikolai_Syrovezhko)
 * WhatsApp: [+7 (985) 289 55 74](https://wa.me/79852895574)
 * Phone: [+7 (985) 289 55 74](tel:+79852895574)
 * E-mail: [syrovezhko@list.ru](mailto:syrovezhko@list.ru)
