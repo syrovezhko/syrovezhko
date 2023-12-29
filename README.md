@@ -40,13 +40,14 @@ Sep 2021 - Dec 2021
 
 ## Experience:
 
-### Front-end Experience
-* **React Developer**  
+### IT
+* **Full-stack Developer**  
+***[Transtelematica](https://transtelematica.ru/)***  
+Dec 2023 - Present
+* **Front-end Developer**  
 ***[WeScience](#)***  
-Dec 2021 - Present
-
-### DevOps Experience
-* **Intern**  
+Dec 2022 - Dec 2023
+* **DevOps Intern**  
 ***[Fish Run Games](https://fishrungames.com/)***  
 Sep 2021 - Nov 2021
 
@@ -65,7 +66,7 @@ Sep 2021 - Nov 2021
 
 * **Computer Science and Mechanical Engineering Teacher**  
 ***School №1288, Moscow***  
-Sep 2019 - Present
+Sep 2019 - Dec 2023
 
 * **Robotic teacher**  
 ***ГБОУ ДО ЦДТ "Строгино"***  
@@ -176,7 +177,9 @@ During this work we realised the Gitea is better for private repositories storag
 
 So to conclude I've created the Gitea backup, pushed it to the Amazon cloud also and melt both of systems. [Vladislav](https://www.linkedin.com/in/vladislav-khorev-63a84450) removed all machines and gave me the access to the new one, where I've installed Gitea and restored backup normally.
 
-Resonantly I’ve find out a first IT job. There is front-end developer's role in the startup. I make react components for interview preparation system.
+In 2022 I’ve find out a first IT job. There is front-end developer's role in the startup. I made react components for interview preparation system.
+
+Now I'm a Full-stack developer in Transtelematica. My major isthe development of broadcast management systems for public transport screens.
 
 So, that's my story.
 
