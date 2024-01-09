@@ -143,9 +143,12 @@ BEM, ES6, DRY, KISS, YAGNI
 *long story short:*
 - graduated Moscow Aviation Institute (Helicopter and Aircraft engineering)
 - an aerospace engineer (2014 - 2018)
-- a computer science teacher (2017 - Present)
+- a computer science teacher (2017 - 2023)
 - since 2020 start to learn web-development by myself
-- The Rolling Scopes School (March - July 2022)
+- The Rolling Scopes School, EPAM (March - July 2022)
+- Interface Development School, Yandex (June - August 2023)
+- Full-stack developer in [Transtelematica](https://transtelematica.ru/) (2023 - Present)
+
 
 <details>
 <summary>
