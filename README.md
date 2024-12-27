@@ -28,12 +28,12 @@
 
 ## Education
 
-* **Moscow Aviation Institute (National Research University)**  
-***Engineer's degree (Helicopter and Aircraft engineering)***  
+* **Moscow Aviation Institute (National Research University)**
+***Engineer's degree (Helicopter and Aircraft engineering)***
 Sep 2012 - Jan 2018
 
-* **National University of Science and Technology MISiS**  
-***further training (AI: theory and methodology of teaching in basic school)***  
+* **National University of Science and Technology MISiS**
+***further training (AI: theory and methodology of teaching in basic school)***
 Sep 2021 - Dec 2021
 
 ---
@@ -42,19 +42,19 @@ Sep 2021 - Dec 2021
 
 ### IT
 
-  Nov 2024 - present time  
-* **Front-end Developer**  
-***[Astra Linux](https://astralinux.ru/)***  
-Dec 2023 - Nov 2024
-* **Full-stack Developer**  
-***[Transtelematica](https://transtelematica.ru/)***  
-Dec 2022 - Dec 2023
-* **Front-end Developer**  
-***[WeScience](#)***  
-Sep 2020 - May 2022
-* **Front-end Developer**
-***[Freelance]***  
-  
+*   Nov 2024 - present time
+**Front-end Developer**
+***[Astra Linux](https://astralinux.ru/)***
+* Dec 2023 - Nov 2024
+**Full-stack Developer**
+***[Transtelematica](https://transtelematica.ru/)***
+* Dec 2022 - Dec 2023
+**Front-end Developer**
+***[WeScience](#)***
+* Sep 2020 - May 2022
+**Front-end Developer**
+***[Freelance]***
+
 
 
 ### Non-commercial Experience
@@ -70,24 +70,24 @@ Sep 2020 - May 2022
 
 </summary>
 
-* **Computer Science and Mechanical Engineering Teacher**  
-***School №1288, Moscow***  
+* **Computer Science and Mechanical Engineering Teacher**
+***School №1288, Moscow***
 Sep 2019 - Dec 2023
 
-* **Robotic teacher**  
-***ГБОУ ДО ЦДТ "Строгино"***  
+* **Robotic teacher**
+***ГБОУ ДО ЦДТ "Строгино"***
 Sep 2017 - Sep 2019
 
-* **Design Engineer**  
-***Ilyushin Aviation Complex***  
+* **Design Engineer**
+***Ilyushin Aviation Complex***
 Nov 2016 - Sep 2018
 
-* **Technician Designer**  
-***RUSSIAN AIRCRAFT CORPORATION MiG***  
+* **Technician Designer**
+***RUSSIAN AIRCRAFT CORPORATION MiG***
 Dec 2014 - Nov 2015
 
-* **Technician Designer**  
-***JSC “Saturn”***  
+* **Technician Designer**
+***JSC “Saturn”***
 Jul 2014 - Aug 2014
 
 </details>
@@ -168,13 +168,13 @@ My name is Nikolai. I am a middle front-end developer.
 
 ![Relative date](https://img.shields.io/date/761166000?label=I%20was%20born&style=plastic)
 
-In 2018, I graduated from the Moscow Aviation Institute as an aircraft and helicopter engineer. I have been worked in industry since I was a student. 
+In 2018, I graduated from the Moscow Aviation Institute as an aircraft and helicopter engineer. I have been worked in industry since I was a student.
 
 After 3 years of industry work, I've changed my career. I became a teacher. My professor invited me to take the first steps in this direction.
 
 Sounds crazy, doesn't it? Why should schools hire an engineer as a teacher? The answer is simple: most of Moscow schools need an engineer with "crazy ideas" and the capability to teach. It's my job to come up with an engineering project and implement it with a team of students.
 
-Working at school gave me the opportunity to try many IT directions. I've learned the basics of Python and C++, how to work with Arduino and program microcontrollers using the SPI interface. I've tried myself as DevOps, FrontEND and BackEND developers. I've made my  [IoT](https://grabcad.com/library/convector-patriot-pt-c-15-x-v41-1) , [hardware & software](https://github.com/syrovezhko/developer-keyboard) projects. So, school gave me the opportunity to choose what I really would like to do. Yeh, it’s front-end. 
+Working at school gave me the opportunity to try many IT directions. I've learned the basics of Python and C++, how to work with Arduino and program microcontrollers using the SPI interface. I've tried myself as DevOps, FrontEND and BackEND developers. I've made my  [IoT](https://grabcad.com/library/convector-patriot-pt-c-15-x-v41-1) , [hardware & software](https://github.com/syrovezhko/developer-keyboard) projects. So, school gave me the opportunity to choose what I really would like to do. Yeh, it’s front-end.
 
 I've started by making a website for my study groups. It was a simple multiple page [website](https://syrovezhko.github.io/bootstrap_4_test ) on Bootstrap with manual data updating. In development, I’ve used SASS with Gulp.
 
