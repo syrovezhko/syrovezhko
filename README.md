@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">English | <a href="./READMEru.md">Русский</a><br/>
-<a href="https://github.com/syrovezhko/learn-react#learnreact">React-learning blog</a></p>
+
 
 ---
 ## You may reach me:
