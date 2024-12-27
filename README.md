@@ -150,10 +150,12 @@ BEM, ES6, DRY, KISS, YAGNI
 - graduated Moscow Aviation Institute (Helicopter and Aircraft engineering)
 - an aerospace engineer (2014 - 2018)
 - a computer science teacher (2017 - 2023)
-- since 2020 start to learn web-development by myself
+- since 2020 start to learn web-development by myself and work on freelance
 - The Rolling Scopes School, EPAM (March - July 2022)
 - Interface Development School, Yandex (June - August 2023)
-- Full-stack developer in [Transtelematica](https://transtelematica.ru/) (2023 - Present)
+- first commercial experience in startup (December 2022 - December 2023)
+- Full-stack developer in [Transtelematica](https://transtelematica.ru/) (December 2023 - November 2024)
+- FrontEnd developer in Astra Linux ( November 2024 - till now)
 
 
 <details>
