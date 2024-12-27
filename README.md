@@ -41,6 +41,7 @@ Sep 2021 - Dec 2021
 ## Experience:
 
 ### IT
+
 Nov 2024 - present time
 * **Front-end Developer**  
 ***[Astra Linux](https://astralinux.ru/)***  
@@ -222,12 +223,6 @@ Thank you for your attention!
 * Chinise - A0
 
 ---
-
-## A proof of English skills
-
-<p align="center"><b>Self introduction video</b><br>(click to watch👇)</p>
-
-[![Watch the video](https://img.youtube.com/vi/f7AcK2fRkig/maxresdefault.jpg)](https://youtu.be/f7AcK2fRkig)
 
 ### Stats:
 
