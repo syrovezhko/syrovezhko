@@ -42,7 +42,7 @@ Sep 2021 - Dec 2021
 
 ### IT
 
-* Nov 2024 - present time  
+  Nov 2024 - present time  
 * **Front-end Developer**  
 ***[Astra Linux](https://astralinux.ru/)***  
 Dec 2023 - Nov 2024
