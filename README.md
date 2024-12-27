@@ -41,15 +41,20 @@ Sep 2021 - Dec 2021
 ## Experience:
 
 ### IT
+Nov 2024 - present time
+* **Front-end Developer**  
+***[Astra Linux](https://astralinux.ru/)***  
+Dec 2023 - Nov 2024
 * **Full-stack Developer**  
 ***[Transtelematica](https://transtelematica.ru/)***  
-Dec 2023 - Present
+Dec 2022 - Dec 2023
 * **Front-end Developer**  
 ***[WeScience](#)***  
-Dec 2022 - Dec 2023
-* **DevOps Intern**  
-***[Fish Run Games](https://fishrungames.com/)***  
-Sep 2021 - Nov 2021
+Sep 2020 - May 2022
+* **Front-end Developer**
+***[Freelance]***  
+  
+
 
 ### Non-commercial Experience
 * Django base educational [platform](https://github.com/syrovezhko/platform) for my computer science clubs
@@ -156,7 +161,7 @@ BEM, ES6, DRY, KISS, YAGNI
 ## Summary
 
 </summary>
-My name is Nikolai. I am a junior front-end developer.
+My name is Nikolai. I am a middle front-end developer.
 
 ![Relative date](https://img.shields.io/date/761166000?label=I%20was%20born&style=plastic)
 
@@ -170,7 +175,7 @@ Working at school gave me the opportunity to try many IT directions. I've learne
 
 I've started by making a website for my study groups. It was a simple multiple page [website](https://syrovezhko.github.io/bootstrap_4_test ) on Bootstrap with manual data updating. In development, I’ve used SASS with Gulp.
 
-For the current academic year (2021-2022), I have made a website using Django 3. It was meant like a private business. But it’s failed to launch in marketing. By the way, you can checkout the [project](https://github.com/syrovezhko/platform)
+For the 2021-2022 academic year, I have made a website using Django 3. It was meant like a private business. But it’s failed to launch in marketing. By the way, you can checkout the [project](https://github.com/syrovezhko/platform)
 
 On the recommendation of my friend [Vladislav Khorev](https://www.linkedin.com/in/vladislav-khorev-63a84450) (he is a senior developer in the Luxoft Russia), I’ve started to learn Vue.js. So, I made my first web app project, FullStack app project. I’ve used Vue.js, Express.js, SqLite DB. You may [check out it](https://syrovezhko.github.io/tab-tracker/client/dist), as well.
 
@@ -182,7 +187,9 @@ So to conclude I've created the Gitea backup, pushed it to the Amazon cloud also
 
 In 2022 I’ve find out a first IT job. There is front-end developer's role in the startup. I made react components for interview preparation system.
 
-Now I'm a Full-stack developer in Transtelematica. My major isthe development of broadcast management systems for public transport screens.
+Then I was a Full-stack developer in Transtelematica. My major was the development of broadcast management systems for public transport screens.
+
+Now I'm a FrontEnd developer in Astra Linux.
 
 So, that's my story.
 
