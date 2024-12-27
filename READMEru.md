@@ -40,17 +40,17 @@
 ## Опыт:
 
 ### IT
-Nov 2024 - present time
-Front-end Developer
+Ноябрь 2024 - по настоящее время
+* Front-end Developer
 Astra Linux
-Dec 2023 - Nov 2024
-Full-stack Developer
+Декабрь 2023 - Ноябрь 2024
+* Full-stack Developer
 Transtelematica
-Dec 2022 - Dec 2023
-Front-end Developer
+Декабрь 2022 - Декабрь 2023
+* Front-end Developer
 WeScience
-Sep 2020 - May 2022
-Front-end Developer [Freelance]
+Сентябрь 2020 - Май 2022
+* Front-end Developer [Фриланс]
 
 ### некоммерческий опыт
 * Образовательная [платформа](https://github.com/syrovezhko/platform) на Django 3 для моих кружков
