@@ -14,7 +14,7 @@
 </div>
 
 <p align="center"><a href="https://github.com/syrovezhko">English</a> | Русский<br/>
-<a href="https://github.com/syrovezhko/learn-react#learnreact">Блог про мое изучение React</a></p>
+
 
 ---
 ## Контакты:
